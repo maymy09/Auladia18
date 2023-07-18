@@ -1,0 +1,30 @@
+h1{
+    color: #5c325a;
+}
+
+table{
+    border-collapse: collapse;
+    width: 50%;
+    color: powderblue;
+
+}
+
+th{
+    border: 1px solid;
+
+    background-color: rgb(83, 20, 37);
+    color: white;
+
+}
+
+td{
+   
+    border: 1px solid;
+
+
+}
+td{
+    background-color: rgb(119, 68, 82);
+    color: rgb(12, 12, 12);
+    
+}
